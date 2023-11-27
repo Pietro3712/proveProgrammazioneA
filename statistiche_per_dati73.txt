@@ -1,0 +1,4 @@
+colonna 1:	20
+colonna 2:	0
+colonna 3:	60
+colonna 4:	40

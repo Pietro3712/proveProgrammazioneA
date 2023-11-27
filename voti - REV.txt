@@ -1,0 +1,3 @@
+rossi 25
+bianchi 25.5
+verdi 26
